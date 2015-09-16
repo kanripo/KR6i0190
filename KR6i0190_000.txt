@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說龍施菩薩本起經
+#+DATE: 2015-08-30 20:12:17.605635
+#+PROPERTY: JUAN 0
