@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:17.365935
+#+DATE: 2015-08-30 20:12:19.148105
 #+TITLE: 佛說龍施菩薩本起經
 #+PROPERTY: CBETA_ID T14n0558
 #+PROPERTY: ID KR6i0190
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 558
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0190_T_001-0910b> 
 #+PROPERTY: JUAN 1
 ¶
-No.558[No.557]¶
-
- 佛說龍施菩薩本起經¶
+No. 558 [No. 557]¶
+佛說龍施菩薩本起經¶
 ¶
 西晉月氏三藏竺法護譯¶
 
