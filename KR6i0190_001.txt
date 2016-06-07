@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:18.808031
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:51
 #+TITLE: 佛說龍施菩薩本起經
 #+PROPERTY: CBETA_ID T14n0558
 #+PROPERTY: ID KR6i0190
@@ -232,7 +232,7 @@ No. 558 [No. 557]¶
 　無數諸天人，¶
 　皆發無上真，
 　一切皆歡喜，¶
-　作禮於佛前。
+　作禮於佛前。」
 #+END_VERSE
-」¶
+¶
 佛說龍施菩薩本起經
